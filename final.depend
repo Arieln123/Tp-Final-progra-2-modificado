@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1669314123 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1669345102 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\final\header.h
+	<windows.h>
+
+1669345610 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\final\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1669314124 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1669365680 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final\header.h
+	<windows.h>
+
+1669365680 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1669360838 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final\sourcearboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headerArboles.h"
+
+1669359857 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final\headerarboles.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1669365813 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - este lo modifico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"headerArboles.h"
+
+1669370395 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - este lo modifico\header.h
+	<windows.h>
+	"headerArboles.h"
+
+1669368754 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - este lo modifico\headerarboles.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"headerArboles.h"
+
+1669370777 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - este lo modifico\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"headerArboles.h"
+
+1669368960 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - este lo modifico\sourcearboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headerArboles.h"
+	"header.h"
+
+1669365813 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - arreglo listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"headerArboles.h"
+
+1669375345 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - arreglo listadoble\header.h
+	<windows.h>
+	"headerArboles.h"
+
+1669368754 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - arreglo listadoble\headerarboles.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"headerArboles.h"
+
+1669368960 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - arreglo listadoble\sourcearboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headerArboles.h"
+	"header.h"
+
+1665488801 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\el nuevo super final\lo ultimo de seba\final - arreglo listadoble\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"headerArboles.h"
+
+1669365813 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\aentrega final\final - arreglo listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"headerArboles.h"
+
+1669393021 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\aentrega final\final - arreglo listadoble\header.h
+	<windows.h>
+	"headerArboles.h"
+
+1669385905 c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\aentrega final\final - arreglo listadoble\headerarboles.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"headerArboles.h"
+
+1669385525 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\aentrega final\final - arreglo listadoble\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"headerArboles.h"
+
+1669385778 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\aentrega final\final - arreglo listadoble\sourcearboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headerArboles.h"
+	"header.h"
+
